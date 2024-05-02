@@ -50,15 +50,15 @@ print(a.index('n'))
 
 print(a.endswith('g'))
 
-#startswith():  method returns True if the string starts with the specified value, otherwise False.
+#startswith():  Method returns True if the string starts with the specified value, otherwise False.
 
 print(a.startswith('b'))
 
-#join():    Converts the elements of an iterable into a string
+#join():   Converts the elements of an iterable into a string
 
 print('-'.join(a))
 
-#partition():   Returns a tuple where the string is parted into three parts
+#partition():  Returns a tuple where the string is parted into three parts
 
 print(a.partition('Built-in-function'))
 
