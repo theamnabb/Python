@@ -60,7 +60,13 @@
  ## String Concatenation 
    -  '+' operator
  ## String are Arrays
-## String Built-in-function
+ ## Escape Characters
+  - \n (New Line)
+  - \' (Single Quote)
+  - \\ (Backslash)
+  - \t (Tab)
+  - \b (Backspace)
+ ## String Method
   - len()
   - upper()
   - lower()
@@ -89,7 +95,7 @@
     - Membership
     - Slicing
 
-## List Built-in-function
+## List Method
   - len()
   - list()
   - append()
