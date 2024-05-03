@@ -17,14 +17,13 @@ Jump into the world of Python with me😎.
  - Multiline Strings 
  - String Concatenation 
  - String are Arrays
- - String Length 
- - String Index
- - String Built-in-function
+ - Escape Characters
+ - String Method
 
 ## Week 3
  - List in python
  - List Operations
- - List Built-in-function
+ - List Method
  - Dictionary
 
 ## Week 4 
