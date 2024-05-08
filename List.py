@@ -76,7 +76,7 @@ print(list8)
 
 # pop(): remove the element that index is passed as a parameter
 print(list8.pop(1))
-print(list8)
+print('pop' ,list8)
 
 # if no paramenter is given then remove last element of the list
 print(list8.pop())
