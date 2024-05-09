@@ -29,6 +29,12 @@ print(set1)
 #union()
 
 set2 = {1,3,5,7,9}
-set3= {2,4,6,8,10}
+set3= {2,3,4,6,8,10}
 set4= set2.union(set3)
 print(set4)
+
+
+#intersection
+
+set5 = set2.intersection(set3)
+print(set5)
