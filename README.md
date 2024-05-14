@@ -23,6 +23,8 @@ Jump into the world of Python with me😎.
 - String are Arrays
 - Escape Characters
 - String Method
+- Conditional statement
+- Loops
 
 ## Week 3
 
@@ -32,9 +34,5 @@ Jump into the world of Python with me😎.
 - Dictionary
 - Tuples
 - Sets
-
-## Week 4
-
-- Conditional statement
-- Loops
--
+- Function
+- File Handling
