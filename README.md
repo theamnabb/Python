@@ -31,7 +31,7 @@ Jump into the world of Python with me😎.
 - List in python
 - List Operations
 - List Method
-- Dictionary
+- Dictionary & methods
 - Tuples
 - Sets
 - Function
