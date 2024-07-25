@@ -35,4 +35,5 @@ Jump into the world of Python with me😎.
 - Tuples
 - Sets
 - Function
-- Class & Object
+- OOPs
+  - Class & Objects
