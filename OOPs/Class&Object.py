@@ -1,4 +1,5 @@
 # _______________Create a class _________________
+# CLass = Data + Behaviour(MEthod / function)
 
 class Course: 
     def __init__ (self, course_name, instructor, fee):
