@@ -37,3 +37,8 @@ Jump into the world of Python with me😎.
 - Function
 - OOPs
   - Class & Objects
+  - Abstraction
+  - Encapsulation
+  - Inheritance
+  - Polymorphism
+
