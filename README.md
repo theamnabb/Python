@@ -35,4 +35,4 @@ Jump into the world of Python with me😎.
 - Tuples
 - Sets
 - Function
-- File Handling
+- Class & Object
