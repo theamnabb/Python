@@ -3,8 +3,8 @@
 dic1 = {}
 
 dic2={
-    'Name': 'AaMna',
-    'Age':24,
+    'Name': 'AaMna AnSari',
+    'Age': 24,
     'Post': 'BDM/QA'
 }
 print(dic2.get('Name'))
