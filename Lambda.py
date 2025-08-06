@@ -20,5 +20,11 @@ print(f'The sum of two number is: ',sumTwo(2,4))
 
 
 # def function 
+def sumTwoNumber(a, b):
+    return a + b
+
+print(f'Sum of two numbers: {sumTwoNumber(2, 4)}')
+print(f'Sum of two numbers:', sumTwoNumber(2, 4))
+
 
 
