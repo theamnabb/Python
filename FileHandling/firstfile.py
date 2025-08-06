@@ -15,4 +15,7 @@ with open("myfile.txt", 'a') as f:
 
 
 with open("myfile.txt") as f:
-  print(f.read())  
+  print(f.read()) 
+
+
+f = open("mySecfile.txt", "x") 
