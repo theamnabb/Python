@@ -6,5 +6,13 @@ with open('myfile.txt', 'a') as f:
     f.write("Appending this line.\n")
 
 
-with open("demofile.txt") as f:
+with open("myfile.txt") as f:
   print(f.read())
+
+
+with open("myfile.txt", 'a') as f:
+   f.write("Successfully understand how to append without overwrite")
+
+
+with open("myfile.txt") as f:
+  print(f.read())  
