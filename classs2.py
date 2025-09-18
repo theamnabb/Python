@@ -1,17 +1,23 @@
-# Data Type 17 Sep 2025
-
-x = 2  # intger number 
-print(x)
-print(type(x))
+ # converting string to integer
 
 
+a =  5
+b =  3
 
-name = "john"  # string
-print(name)
-print(type(name))
+print(a + b)
+print(a - b)
+print(a * b)
+print(a / b)
+print(a // b)
+print(a % b)
+print(a ** b)
 
-floating = 2.5  # floating point number
-print(floating)
-print(type(floating))
+num1 = int(input("Enter first number: "))
+num2 = int(input("Enter second number: "))
 
+sum = num1 + num2
+print("The sum is:", sum)
+
+subtr = num1 -num2
+print("The subtraction is:", subtr)
 
