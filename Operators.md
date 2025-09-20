@@ -19,3 +19,10 @@ Ask for two words from the user and join them with a space.
 >Example: "Python" + "Rocks" → Python Rocks
 
 ## Qno5:
+Write a program that asks for the user’s birth year and current year. Then print their age.
+
+## Qno6:
+Ask for the price of a product and a discount percentage.
+
+Print the discounted price.
+(Example: Price 1000, discount 20% → Final price 800)
