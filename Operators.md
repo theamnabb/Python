@@ -46,3 +46,10 @@ for char in 'hello':
 Qno2: Print numbers from 1 to 20 using a for loop.
 
 Qno3: Print the multiplication table of 5 (from 5 × 1 up to 5 × 10).
+
+Qno4: Write a loop to find the sum of all odd numbers between 1 and 50.
+
+Qno5: Count how many vowels are in the string:
+```bash
+text = "Programming is fun"
+```
