@@ -26,3 +26,23 @@ Ask for the price of a product and a discount percentage.
 
 Print the discounted price.
 (Example: Price 1000, discount 20% → Final price 800)
+
+
+
+
+
+---
+
+```bash
+What will the following code output?
+
+for char in 'hello':
+   if char == 'l':
+       break
+   print(char, end=' ')
+   ```
+
+
+Qno2: Print numbers from 1 to 20 using a for loop.
+
+Qno3: Print the multiplication table of 5 (from 5 × 1 up to 5 × 10).
