@@ -63,9 +63,29 @@
 
 
 
-dayofwek = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
+# dayofwek = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
 
-for day in dayofwek:
-    if day == 'Fri':
-        break
-    print(day)
+# for day in dayofwek:
+#     if day == 'Fri':
+#         break
+#     print(day)
+
+
+
+
+day = 4
+match day:
+  case 1:
+    print("Monday")
+  case 2:
+    print("Tuesday")
+  case 3:
+    print("Wednesday")
+  case 4:
+    print("Thursday")
+  case 5:
+    print("Friday")
+  case 6:
+    print("Saturday")
+  case 7:
+    print("Sunday")
