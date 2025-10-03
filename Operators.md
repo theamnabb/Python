@@ -28,9 +28,6 @@ Print the discounted price.
 (Example: Price 1000, discount 20% → Final price 800)
 
 
-
-
-
 ---
 
 ```bash
@@ -53,5 +50,4 @@ Qno5: Count how many vowels are in the string:
 ```bash
 text = "Programming is fun"
 ```
-
 

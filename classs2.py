@@ -89,3 +89,7 @@ match day:
     print("Saturday")
   case 7:
     print("Sunday")
+
+# Random 
+# String
+# Accessing 
