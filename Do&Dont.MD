@@ -8,3 +8,13 @@
 | **Functions**             | create simple functions                                     | To organize code                |
 | **File Handling**         | read/write CSV, txt                                         | Important for Excel work        |
 | **Pandas (after basics)** | read Excel, filter, groupby, pivot, export                  | Main goal for her sales job     |
+
+
+
+| Topic                                             | Status                                     |
+| ------------------------------------------------- | ------------------------------------------ |
+| Tuple, Set, Dict advanced methods                 | ❌ Not needed now                           |
+| OOP (Classes, Objects, Inheritance, Polymorphism) | ❌ Not needed now                           |
+| NumPy                                             | ❌ optional for her (only Pandas is enough) |
+| Decorators, Generators, Recursion                 | ❌ No need                                  |
+| Data Structures / Algorithms                      | ❌ No need right now                        |
